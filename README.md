@@ -11,4 +11,4 @@ Tip: every penny saved is a penny earned!
 
 **I hope your greens are always more than your reds**
 
-![Alt Text](budgety.gif)
+![](budgety.mp4)
